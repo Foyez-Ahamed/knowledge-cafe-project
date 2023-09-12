@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/nzsWYqZ/1000-F-422285781-EFJyo5e1-Wie-Of-MLvf-DAt-U3-Eqr-D0-XYh-Td.jpg",
+        "title": "The Adventure Begins",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co/X7pNWbF/woman-nature-writing.jpg",
+        "posted_date": "2023-09-12",
+        "reading_time": 2,
+        "hashtags": ["fiction", "adventure", "booklovers"]
+      },
+
+      {
+        "id": 2,
+        "cover": "https://i.ibb.co/pjbpRgz/1000-F-218234460-k-MLp-VVRJVcb-Svg-ONZt5-Rc-GDCl80axh-JY.jpg",
+        "title": "Mystery at Midnight",
+        "author": "Emily Davis",
+        "author_img": "https://i.ibb.co/X7pNWbF/woman-nature-writing.jpg",
+        "posted_date": "2023-09-10",
+        "reading_time": 1.5,
+        "hashtags": ["mystery", "thriller", "bookworm"]
+      },
+
+      {
+        "id": 3,
+        "cover": "https://i.ibb.co/F33Q9mN/1000-F-603064158-MGX7-BYCu8g6z95-Yqfc-JFDu-Vg-A5-V8-GSZR.jpg",
+        "title": "Cooking Adventures",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co/98m7fVC/1000-F-437588931-ijfb5-Sl5gzu37wj-JDy78wf-Bk-HDYc-LRTt.jpg",
+        "posted_date": "2023-09-08",
+        "reading_time": 1,
+        "hashtags": ["cooking", "recipes", "foodie"]
+      },
+
+      {
+        "id": 4,
+        "cover": "https://i.ibb.co/F33Q9mN/1000-F-603064158-MGX7-BYCu8g6z95-Yqfc-JFDu-Vg-A5-V8-GSZR.jpg",
+        "title": "Science Explorations",
+        "author": "David Carter",
+        "author_img": "https://i.ibb.co/98m7fVC/1000-F-437588931-ijfb5-Sl5gzu37wj-JDy78wf-Bk-HDYc-LRTt.jpg",
+        "posted_date": "2023-09-05",
+        "reading_time": 4,
+        "hashtags": ["science", "education", "curiosity"]
+      },
+
+      {
+        "id": 5,
+        "cover": "https://i.ibb.co/F33Q9mN/1000-F-603064158-MGX7-BYCu8g6z95-Yqfc-JFDu-Vg-A5-V8-GSZR.jpg",
+        "title": "Traveler's Diary",
+        "author": "Sarah Lee",
+        "author_img": "https://i.ibb.co/98m7fVC/1000-F-437588931-ijfb5-Sl5gzu37wj-JDy78wf-Bk-HDYc-LRTt.jpg",
+        "posted_date": "2023-09-03",
+        "reading_time": 3,
+        "hashtags": ["travel", "adventures", "wanderlust"]
+      }
+      
+]
